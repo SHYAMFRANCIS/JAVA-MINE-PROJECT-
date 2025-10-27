@@ -1,0 +1,92 @@
+# Java #
+*.class
+*.jar
+*.war
+*.ear
+*.zip
+*.tar
+*.tar.gz
+
+# Maven #
+target/
+pom.xml.tag
+pom.xml.releaseBackup
+pom.xml.versionsBackup
+pom.xml.next
+release.properties
+dependency-reduced-pom.xml
+buildNumber.properties
+.mvn/timing.properties
+.mvn/wrapper/maven-wrapper.properties
+
+# IDE #
+## Eclipse ##
+*.pydevproject
+.metadata
+bin/
+tmp/
+*.tmp
+*.bak
+*.swp
+*~.nib
+local.properties
+.settings/
+.loadpath
+.recommenders
+
+## IntelliJ IDEA ##
+.idea
+*.iws
+*.iml
+*.ipr
+*.properties
+out/
+
+## NetBeans ##
+/nbproject/private/
+/nbbuild/
+/dist/
+/nbdist/
+/.nb-gradle/
+
+## VS Code ##
+.vscode/
+*.code-workspace
+
+# OS #
+.DS_Store
+Thumbs.db
+ehthumbs.db
+Icon?
+apidoc/
+doc/
+
+# Build / Runtime ##
+project_sk/target/
+
+# Logs
+*.log
+logs/
+
+# Environment specific files
+.env
+.config/
+*.local
+
+# Sensitive files
+secrets/
+credentials/
+*.p12
+*.pem
+*.key
+*.cer
+*.crt
+*.ovpn
+
+# IDE and Editor specific files
+*.swp
+*.swo
+*~
+Session.vim
+.idea/
+.vs/
