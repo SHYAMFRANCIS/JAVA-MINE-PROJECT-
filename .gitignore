@@ -90,3 +90,8 @@ credentials/
 Session.vim
 .idea/
 .vs/
+
+# Documentation files
+QWEN.md
+DOCUMENTATION.txt
+PROJECT_SUMMARY.md
